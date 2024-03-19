@@ -1,8 +1,16 @@
-
-
-
-//Mensaje
+/**
+ * Unmobjeto de esta clase es una lista
+ * que crece dinamicamente y quie soporata
+ * como elemento de cualquiere tipo
+ * Version 1.1
+ */
 public class Anylist<E> {
+
+
+
+
+
+    
     private E[] buffer;
     private int Icapacidad;
     private int numEle;
