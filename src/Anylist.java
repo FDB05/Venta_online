@@ -1,4 +1,7 @@
-import java.util.ArrayList;
+
+
+
+//Mensaje
 public class Anylist<E> {
     private E[] buffer;
     private int Icapacidad;
